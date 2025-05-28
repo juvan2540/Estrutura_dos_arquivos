@@ -16,20 +16,16 @@ Este projeto é um aplicativo JavaFX que permite gravar áudio do microfone, sal
 
 ## Como executar
 
-1. Clone este repositório.
-2. Ajuste o caminho do JavaFX SDK no arquivo `run_gravador.bat`.
+1. Clone este repositório.  
+2. Ajuste o caminho do JavaFX SDK no arquivo `run_gravador.bat`.  
 3. Execute o script `run_gravador.bat` para compilar e rodar o programa.
 
 ## Estrutura dos arquivos
 
-- `GravadorAppMelhorado.java` — código fonte principal.
-- `run_gravador.bat` — script para compilar e executar com JavaFX.
+- `GravadorAppMelhorado.java` — código fonte principal.  
+- `run_gravador.bat` — script para compilar e executar com JavaFX.  
 - `lib/` — biblioteca do JavaFX (não está no repositório, deve ser instalada separadamente).
 
 ## Autor
 
 Juvan Santos - Desenvolvedor Web
-
----
-
-Se quiser, posso ajudar a gerar esse arquivo pra você, só pedir! Quer que eu faça?
